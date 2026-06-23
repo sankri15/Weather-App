@@ -3,7 +3,8 @@ A weather app made using OpenWeatherMap API in Vanilla JavaScript.
 
 The app tells the current temperature and some additional information like Air Quality Index, Real Feel, Humidity, Highest Temperature, Lowest Temperature, Wind Speed, Wind Direction, Visibility, Pressure, Sunrise and Sunset.
 
-live demo : weather-app-seven-tau-50.vercel.app
+live demo : https://weather-app-seven-tau-50.vercel.app
+
 ## Configuration
 To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps to set up your API key:
 
